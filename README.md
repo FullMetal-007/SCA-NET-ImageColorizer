@@ -26,7 +26,7 @@ It combines a powerful PyTorch backend for accurate color restoration with a use
 ## Project Structure
 
 ```text
-DL-PBL-copy/
+SCA-NET-ImageColorizer/
 ├── client/              # React Frontend
 │   ├── src/
 │   └── ...
@@ -119,3 +119,4 @@ The **Self-Calibrated AutoEncoder (SCA-Net)** improves upon standard U-Nets by i
 
 - **lukemelas/Automatic-Image-Colorization** for the original framework inspiration.
 - **SCNet (Liu et al., CVPR 2020)** for the Self-Calibrated Convolution concepts.
+

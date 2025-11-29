@@ -7,7 +7,7 @@ It combines a powerful PyTorch backend for accurate color restoration with a use
 ---
 
 ## Dataset 
-**The dataset which i've used for this project is ViCoW: A dataset for Colorization and Restoration of Vietnam War Imagery - https://data.mendeley.com/datasets/m5zmrr564v/1
+The dataset which i've used for this project is **ViCoW: A dataset for Colorization and Restoration of Vietnam War Imagery**  https://data.mendeley.com/datasets/m5zmrr564v/1
 
 ---
 
@@ -124,5 +124,6 @@ The **Self-Calibrated AutoEncoder (SCA-Net)** improves upon standard U-Nets by i
 
 - **lukemelas/Automatic-Image-Colorization** for the original framework inspiration.
 - **SCNet (Liu et al., CVPR 2020)** for the Self-Calibrated Convolution concepts.
+
 
 

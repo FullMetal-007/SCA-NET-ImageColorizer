@@ -120,10 +120,17 @@ The **Self-Calibrated AutoEncoder (SCA-Net)** improves upon standard U-Nets by i
 
 ---
 
+## Sample Output
+
+![SCA NET Image Colorizer](assets/UI.jpeg)
+
+---
+
 ## Acknowledgements
 
 - **lukemelas/Automatic-Image-Colorization** for the original framework inspiration.
 - **SCNet (Liu et al., CVPR 2020)** for the Self-Calibrated Convolution concepts.
+
 
 
 
